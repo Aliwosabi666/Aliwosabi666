@@ -12,7 +12,7 @@
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from - Normal Higher School of Tetouan University Abdelmalek Essaadi Martil in Morocco in 2018 with a Bachelor's degree in Software And Web Development.  
 
 
-  - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from - Institute Specialized In Offshoring Trades- Tetouan - Morocco in 2017 with a degree Specializing in the Development  of a Computer Technician Specializing  in Computer Development.  
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from - Institute Specialized In Offshoring Trades- Tetouan - Morocco in 2017 with a degree Specializing in the Development  of a Computer Technician Specializing  in Computer Development.  
 
 
 - 💻  working as freelancer web Developer.
@@ -24,7 +24,7 @@
 
 - 📃 Have a look to my [CV_on_My_Own_Website](https://alwosabyinfo.com/).  
 
-- 📃 Have a look to my [CV_on_Github](https://github.com/OsamaAlmamri/OsamaAlmamri/blob/master/OsamaAlmamariLastCV-18-09-2022.pdf).  
+- 📃 Have a look to my [CV_on_Github](https://github.com/Aliwosabi666/Aliwosabi666/main/cv_ali_wsb.pdf).  
 
 
 <br/>  
