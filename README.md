@@ -24,7 +24,7 @@
 
 - 📃 Have a look to my [CV_on_My_Own_Website](https://alwosabyinfo.com/).  
 
-- 📃 Have a look to my [CV_on_Github](https://github.com/Aliwosabi666/Aliwosabi666/main/cv_ali_wsb.pdf).  
+- 📃 Have a look to my [CV_on_Github](https://github.com/Aliwosabi666/Aliwosabi666/blob/main/cv_ali_wsb.pdf).  
 
 
 <br/>  
